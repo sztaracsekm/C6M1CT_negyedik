@@ -1,5 +1,5 @@
 # C6M1CT_negyedik
-Hálózati technológiák 4. beadandó
+Hálózati technológiák 4. beadandó</br>
 Ez egy chattelési lehetőséget biztosító alkalmazás, amely véletlenszerűen választ portot majd ezen chat szervert indít.
 A felület elkészítéséhez a Java Swing toolkitet használtam.
 A ServerUI futtatásával indítható a server, majd a ClientUI tetszőleges számú futtatásával klienseket tudunk készíteni.
